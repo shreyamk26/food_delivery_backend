@@ -1,0 +1,18 @@
+{
+    "name": "food_delivery_backend",
+    "version": "1.0.0",
+    "description": "Backend API for Food Delivery System",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "csv-parser": "^3.0.0",
+        "csv-writer": "^1.6.0",
+        "express": "^4.18.1",
+        "node-cron": "^3.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
